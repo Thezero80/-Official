@@ -31,7 +31,7 @@ const getValueInput = () => {
 
     // Programar el nuevo temporizador
     setTimeout(3000);
-    window.open("inicio.html");
+    window.open("/-Official/inicio.html");
 
     //window.location.href = "nosotros.html";
     // Redirect after a short delay for visual feedback
